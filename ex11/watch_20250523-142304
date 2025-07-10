@@ -1,0 +1,21 @@
+Toutes les 0,5s: ./build.sh                                                                      archlinux: 14:23:04
+                                                                                                       in 0,025s (1)
+src/ft_div_mod.c:12:10: erreur fatale: /home/sckavens/Piscine_c/bloc01_fondamentaux/ex11/include/ft_div_mod.h : Aucu
+n fichier ou dossier de ce nom                                                                                      
+   12 | #include "/home/sckavens/Piscine_c/bloc01_fondamentaux/ex11/include/ft_div_mod.h"                           
+      |          ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~                           
+compilation terminée.                                                                                               
+test/test_div_mod.c:12:10: erreur fatale: /home/sckavens/Piscine_c/bloc01_fondamentaux/ex11/include/ft_div_mod.h : A
+ucun fichier ou dossier de ce nom                                                                                   
+   12 | #include "/home/sckavens/Piscine_c/bloc01_fondamentaux/ex11/include/ft_div_mod.h"                           
+      |          ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~                           
+compilation terminée.                                                                                               
+                                                                                                                    
+                                                                                                                    
+                                                                                                                    
+                                                                                                                    
+                                                                                                                    
+                                                                                                                    
+                                                                                                                    
+                                                                                                                    
+                                                                                                                    
