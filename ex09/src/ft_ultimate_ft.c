@@ -8,8 +8,7 @@
 /* Updated: 2025/05/20 15:54:57 by Xavier.Megnoux                             */
 /*                                                                            */
 /******************************************************************************/
-
-#include "/home/sckavens/Piscine42/ya00/ex09/include/ft_ultimate_ft.h"
+#include "../include/ft_ultimate_ft.h"
 
 void ft_ultimate_ft(int *********nbr)
 {

@@ -6,7 +6,7 @@ NAME = piscine
 # Liste de tous les repertoires d'exercice a compiler et tester
 # Cette liste sera étendue au fur et à mesure que tu progresses
 
-EXERCICES = ex00 ex01 ex02 ex03 ex04 ex05 ex06 ex07 ex08
+EXERCICES = ex00 ex01 ex02 ex03 ex04 ex05 ex06 ex07 ex08 ex09
 
 # Liste de tout les exercice a compiler et tester
 # Cette liste sera étendue au fur et à mesure que tu progresses
@@ -20,6 +20,7 @@ SRC_ex05 = ft_print_comb
 SRC_ex06 = ft_print_comb2
 SRC_ex07 = ft_putnbr ft_putchar
 SRC_ex08 = ft_print_combn
+SRC_ex09 = ft_ultimate_ft
 
 # Option de compilation standard
 

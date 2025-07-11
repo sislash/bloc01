@@ -9,7 +9,6 @@
 /*                                                                            */
 /******************************************************************************/
 #include <stdio.h>
-#include "/home/sckavens/Piscine42/ya00/ex09/include/ft_ultimate_ft.h"
 
 void ft_ultimate_ft(int *********nbr);
 
