@@ -13,13 +13,13 @@
 #include "../include/ft_putnbr.h"
 #include "../include/ft_putstr.h"
 
-//void ft_putnbr(int nb);
-//void ft_putstr(char *str);
-//void ft_ultimate_ft(int *********nbr);
+void ft_putnbr(int nb);
+void ft_putstr(char *str);
+void ft_ultimate_ft(int *********nbr);
 
 int main(void)
 {
-	int val=0;
+	int val;
 	int *p1=&val;
 	int **p2=&p1;
 	int ***p3=&p2;
@@ -34,7 +34,7 @@ int main(void)
 	
 	ft_putstr("Résultat : ");
 	ft_putnbr(val);
-	write(1, "\n", 1); // Résultat attendu : 42
+	write(1, "\n", 1); // Résultat attendu : 20
 	
 	return 0;
 }
