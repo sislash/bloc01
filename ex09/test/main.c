@@ -8,7 +8,13 @@
 /* Updated: 2025/05/20 15:55:33 by Xavier.Megnoux                             */
 /*                                                                            */
 /******************************************************************************/
-#include <stdio.h>
+//#include <stdio.h>
+#include <unistd.h>
+
+void ft_putchar(char c)
+{
+	write(1, &c, 1);
+}
 
 void ft_ultimate_ft(int *********nbr);
 
@@ -25,5 +31,5 @@ int ********p8=&p7;
 int main(void)
 {
 	ft_ultimate_ft(&p8);
-	printf("%d", ********p8);
+	ft_putchar(********p8);
 }
