@@ -20,7 +20,7 @@ SRC_ex05 = ft_print_comb
 SRC_ex06 = ft_print_comb2
 SRC_ex07 = ft_putnbr ft_putchar
 SRC_ex08 = ft_print_combn
-SRC_ex09 = ft_ultimate_ft
+SRC_ex09 = ft_ultimate_ft ft_putnbr ft_putstr
 
 # Option de compilation standard
 
